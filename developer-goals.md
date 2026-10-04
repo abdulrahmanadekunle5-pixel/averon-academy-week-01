@@ -1,0 +1,2 @@
+I want to at least have experience in frontend because personally im currently  at JavaScript and joining this course will help me very much. i want to be able to build interactive website using the tools/languages we will use throughout this 8 weeks. I want to be a problem solver, i want to make life easier for users. python, JavaScript and react. 
+My long term goal is to be a skilled full-stack developer who can build useful web applications to ease the life of the users.
